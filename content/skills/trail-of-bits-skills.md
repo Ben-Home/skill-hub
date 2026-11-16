@@ -17,7 +17,7 @@ links:
   source: https://github.com/trailofbits/skills
   install: /plugin marketplace add trailofbits/skills
 metrics:
-  githubStars: 8198
+  githubStars: 8226
   lastCommit: 2026-11-12
   license: CC-BY-SA-4.0
   archived: false
